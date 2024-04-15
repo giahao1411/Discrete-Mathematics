@@ -1,0 +1,2 @@
+exercise_content = "In the span of humanity, writing are what enabled humans to pass on many knowledge to their next generation. Via writing, the art of telling stories; both fictional and real; evolved and became a huge part of humanity culture. Among them, there are stories that transcend languages, culture and history to reach people far away both in spaces and times. Some prominent examples are the works of Shakespeare, Andersen, Homer,..."
+exercise_word_count = len(exercise_content.split())
